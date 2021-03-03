@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\u jin\desktop\ssafy_프로젝트\0302\metalstick\metalstick\main.cpp(16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\u jin\desktop\ssafy_프로젝트\0302\metalstick\metalstick\main.cpp(64): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\u jin\desktop\ssafy_프로젝트\0302\metalstick\metalstick\main.cpp(44): warning C4101: 'out' :참조되지 않은 지역 변수입니다.
+c:\users\u jin\desktop\ssafy_프로젝트\0302\metalstick\metalstick\main.cpp(44): warning C4101: 'in' :참조되지 않은 지역 변수입니다.
+  MetalStick.vcxproj -> C:\Users\U JIn\Desktop\ssafy_프로젝트\0302\MetalStick\Debug\MetalStick.exe

@@ -1,0 +1,2 @@
+﻿  main.cpp
+c:\users\u jin\desktop\ssafy_프로젝트\0302\findmatrix\findmatrix\main.cpp(34): error C4700: 초기화되지 않은 'C' 지역 변수를 사용했습니다.
